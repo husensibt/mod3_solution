@@ -1,0 +1,18 @@
+.nav-color {
+    background-color: aqua;
+}
+
+.menu-color {
+    /* background-color: grey; */
+    padding: 10px;
+}
+
+.content-justify {
+    text-align: justify;
+    padding: 5px;
+}
+
+.margin {
+    box-sizing: border-box;
+    margin: 5px;
+}
